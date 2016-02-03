@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fizzbang.iml" filepath="$PROJECT_DIR$/.idea/modules/fizzbang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fizzbang-build.iml" filepath="$PROJECT_DIR$/.idea/modules/fizzbang-build.iml" />
+    </modules>
+  </component>
+</project>
