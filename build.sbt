@@ -1,4 +1,4 @@
-name := "FizzBang"
+name := "FizzBuzz"
 
 version := "1.0"
 
